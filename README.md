@@ -1,5 +1,5 @@
 # OA-FPlus
-OhioAnts Founding PLUS chamber based on readily available 50mmx75mm microscope slides is an opensource project designed for keeping and founding new ant colonies. This is an upgrade in size from the OA-F25, with more room for quick growing colonies. The OA-FPLUS is designed with input from dozens of ant-keepers as the ultimate founding chamber for newly collected queens. 
+OhioAnts Founding PLUS chamber based on readily available 50mmx75mm microscope slides is an opensource project designed for keeping and founding new ant colonies. This is an upgrade in size from the OA-F25 with more focus on open airflow for the nest, with more room for quick growing colonies. The OA-FPLUS is designed with input from dozens of ant-keepers as the ultimate founding chamber for newly collected queens. 
 
 ## Details
 The OA-FPlus has the following features.
@@ -26,7 +26,7 @@ Print at .2mm height and 25-30% infill. The 50mm x 75mm glass microscope slides 
 
 Both PLA and PETG are great for this formicarium. PLA tends to print better, and all of the OA OpenSource is tested with PLA.
 PETG https://amzn.to/3dBMde2
-MArble PLA https://amzn.to/3iBty4I
+Marble PLA https://amzn.to/3iBty4I
 
 ## Other Items to Complete Formicarium.
 Additional items needed to complete the formicarium.
